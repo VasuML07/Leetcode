@@ -154,17 +154,6 @@ Track:
 
 Repetition builds instinct.
 
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VasuML07&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VasuML07&layout=compact&theme=radical)
-
-
-
----
 
 # 📂 Contribution Structure
 
