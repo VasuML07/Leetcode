@@ -34,11 +34,49 @@ It is a structured roadmap covering the most important patterns tested in FAANG-
 > Update these manually as you progress.
 
 ![Total Progress](https://img.shields.io/badge/Total%20Progress-0%25-red)
-![1D DP](https://img.shields.io/badge/1D%20DP-0%2F15-lightgrey)
-![Graphs](https://img.shields.io/badge/Graphs-0%2F15-lightgrey)
-![Trees](https://img.shields.io/badge/Trees-0%2F15-lightgrey)
+
+---
+
+## 🧱 Foundations
+
+![Complexity & Fundamentals](https://img.shields.io/badge/Complexity%20%26%20Fundamentals-0%2F15-lightgrey)
+![Hashing](https://img.shields.io/badge/Hashing-0%2F15-lightgrey)
+![Two Pointers](https://img.shields.io/badge/Two%20Pointers-0%2F15-lightgrey)
 ![Sliding Window](https://img.shields.io/badge/Sliding%20Window-0%2F15-lightgrey)
-![Binary Search](https://img.shields.io/badge/Binary%20Search-0%2F15-lightgrey)
+![Prefix Sum](https://img.shields.io/badge/Prefix%20Sum-0%2F15-lightgrey)
+![Fast & Slow Pointers](https://img.shields.io/badge/Fast%20%26%20Slow%20Pointers-0%2F15-lightgrey)
+
+---
+
+## ⚙️ Core Data Structures
+
+![Stack & Monotonic Stack](https://img.shields.io/badge/Stack%20%26%20Monotonic%20Stack-0%2F15-lightgrey)
+![Queue & Monotonic Queue](https://img.shields.io/badge/Queue%20%26%20Monotonic%20Queue-0%2F15-lightgrey)
+![Linked List](https://img.shields.io/badge/Linked%20List-0%2F15-lightgrey)
+![Heap & Priority Queue](https://img.shields.io/badge/Heap%20%26%20Priority%20Queue-0%2F15-lightgrey)
+![Interval Problems](https://img.shields.io/badge/Interval%20Problems-0%2F15-lightgrey)
+
+---
+
+## 🌲 Trees & Graph Thinking
+
+![Trees](https://img.shields.io/badge/Trees-0%2F15-lightgrey)
+![Trie](https://img.shields.io/badge/Trie-0%2F15-lightgrey)
+![Traversal](https://img.shields.io/badge/Traversal-0%2F15-lightgrey)
+![Topological Sort](https://img.shields.io/badge/Topological%20Sort-0%2F15-lightgrey)
+![Union Find](https://img.shields.io/badge/Union%20Find-0%2F15-lightgrey)
+![Shortest Path](https://img.shields.io/badge/Shortest%20Path-0%2F15-lightgrey)
+![Minimum Spanning Tree](https://img.shields.io/badge/Minimum%20Spanning%20Tree-0%2F15-lightgrey)
+
+---
+
+## 🧮 Dynamic Programming
+
+![1D DP](https://img.shields.io/badge/1D%20DP-0%2F15-lightgrey)
+![Knapsack Pattern](https://img.shields.io/badge/Knapsack%20Pattern-0%2F15-lightgrey)
+![2D DP](https://img.shields.io/badge/2D%20DP-0%2F15-lightgrey)
+![DP on Strings](https://img.shields.io/badge/DP%20on%20Strings-0%2F15-lightgrey)
+![DP on Trees](https://img.shields.io/badge/DP%20on%20Trees-0%2F15-lightgrey)
 
 You can change:
 - `0%25` → `35%25`
