@@ -22,7 +22,7 @@ It is a structured roadmap covering the most important patterns tested in FAANG-
 
 | Metric | Value |
 |--------|-------|
-| Core Patterns | 20 |
+| Core Patterns | 27 |
 | Problems per Pattern | 15 |
 | **Total Questions** | **405** |
 | Goal | Pattern Mastery |
