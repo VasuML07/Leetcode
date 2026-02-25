@@ -33,7 +33,7 @@ It is a structured roadmap covering the most important patterns tested in FAANG-
 
 > Update these manually as you progress.
 
-![Total Progress](https://img.shields.io/badge/Problems%20Solved-4%20%2F%20300-red)
+![Total Progress](https://img.shields.io/badge/Problems%20Solved-4%20%2F%20405-red)
 
 ---
 
