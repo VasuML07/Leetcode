@@ -24,7 +24,7 @@ It is a structured roadmap covering the most important patterns tested in FAANG-
 |--------|-------|
 | Core Patterns | 20 |
 | Problems per Pattern | 15 |
-| **Total Questions** | **300** |
+| **Total Questions** | **405** |
 | Goal | Pattern Mastery |
 
 ---
