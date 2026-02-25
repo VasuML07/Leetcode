@@ -33,13 +33,13 @@ It is a structured roadmap covering the most important patterns tested in FAANG-
 
 > Update these manually as you progress.
 
-![Total Progress](https://img.shields.io/badge/Total%20Progress-%25-red)
+![Total Progress](https://img.shields.io/badge/Total%20Progress-2%25-red)
 
 ---
 
 ## 🧱 Foundations
 
-![Complexity & Fundamentals](https://img.shields.io/badge/Complexity%20%26%20Fundamentals-%2F15-lightgrey)
+![Complexity & Fundamentals](https://img.shields.io/badge/Complexity%20%26%20Fundamentals-2%2F15-lightgrey)
 ![Hashing](https://img.shields.io/badge/Hashing-0%2F15-lightgrey)
 ![Two Pointers](https://img.shields.io/badge/Two%20Pointers-0%2F15-lightgrey)
 ![Sliding Window](https://img.shields.io/badge/Sliding%20Window-0%2F15-lightgrey)
